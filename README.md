@@ -1,1 +1,1 @@
-# first-day-repo
+# Create a repo first day of class
